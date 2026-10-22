@@ -45,5 +45,4 @@ The dataset consists of the following 15 columns:
 
 **Reviewed Data Quality:** Checked for missing values, duplicate records, and inconsistent category or geographical names.
 
-**After preprocessing, the dataset was prepared for further analysis and interactive dashboard creation in Power BI.
-**
+**After preprocessing, the dataset was prepared for further analysis and interactive dashboard creation in Power BI.**
