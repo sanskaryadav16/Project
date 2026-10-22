@@ -35,14 +35,10 @@ The dataset consists of the following 15 columns:
 
 **Removed Unnecessary Rows:** Removed the extra rows containing 0 values that appeared before the column headers.
 
-**Fixed Column Headers:**
+**Updated Column Headers:** After removing the unnecessary rows containing 0 values, updated the column headers to ensure they correctly align with the corresponding data columns.
 
 **Separated Combined Columns:** Separated combined columns such as `SegmentCategory` and `Region Country` into individual columns.
 
-**Standardized Date Formats:** Converted the Shipping Date and Delivery Date columns into a consistent date format.
-
-**Verified Numeric Data Types:** Ensured that Unit Price, Unit Cost, Units Sold, Net Cost, Revenue, and Net Profit were stored in appropriate numeric formats.
-
-**Reviewed Data Quality:** Checked for missing values, duplicate records, and inconsistent category or geographical names.
+**Verified Data Types:** Checked the data types of all columns and ensured that date, numeric, and categorical columns were stored in appropriate formats.
 
 **After preprocessing, the dataset was prepared for further analysis and interactive dashboard creation in Power BI.**
