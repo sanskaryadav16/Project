@@ -7,3 +7,23 @@ and business profitability.
 ## 2. Data Description
 The dataset contains product-level sales and delivery information, including product details, customer segments, categories, geographical regions, shipping and delivery dates, pricing, units sold, total costs, revenue, and net profit.
 
+
+The dataset consists of the following 15 columns:
+
+| Column Name     | Description |
+|-----------------|-------------|
+| Product Id      | Unique identifier assigned to each product record. |
+| Product Name    | Name of the product being sold. |
+| Segment         | Customer segment, such as Consumer or Corporate. |
+| Category        | Main product category, such as Furniture, Office Supplies, or Technology. |
+| Sub-Category    | Specific product group within a category. |
+| Region          | Geographical region where the product is sold. |
+| Country         | Country associated with the product sale. |
+| Shipping Date   | Date when the product was shipped. |
+| Delivery Date   | Date when the product was delivered. |
+| Unit Price      | Selling price of one unit of a product. |
+| Unit Cost       | Cost incurred to purchase or produce one unit. |
+| Units Sold      | Total number of units sold. |
+| Net Cost        | Total cost associated with the units sold. |
+| Revenue         | Total revenue generated from product sales. |
+| Net Profit      | Profit earned after subtracting the net cost from revenue. |
