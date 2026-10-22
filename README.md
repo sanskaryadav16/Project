@@ -37,17 +37,11 @@ The dataset consists of the following 15 columns:
 
 **Fixed Column Headers:** Corrected the column headers where multiple fields were combined, such as SegmentCategory and Region Country, to ensure each column had a proper name.
 
-**Separated Combined Data:** Separated the combined SegmentCategory column into two individual columns: Segment and Category.
-
-**Corrected Column Structure:** Ensured that each field, such as Region and Country, was stored in its own separate column.
+**Separated Combined Data:** **Separated Combined Columns:** Separated combined columns such as `SegmentCategory` and `Region Country` into individual columns.
 
 **Standardized Date Formats:** Converted the Shipping Date and Delivery Date columns into a consistent date format.
 
-**Checked Date Accuracy:** Identified records where the delivery date appeared earlier than the shipping date and flagged them for validation.
-
 **Verified Numeric Data Types:** Ensured that Unit Price, Unit Cost, Units Sold, Net Cost, Revenue, and Net Profit were stored in appropriate numeric formats.
-
-**Validated Sales Calculations:** Checked the consistency of Net Cost, Revenue, and Net Profit using the available price, cost, and quantity data.
 
 **Reviewed Data Quality:** Checked for missing values, duplicate records, and inconsistent category or geographical names.
 
