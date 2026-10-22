@@ -35,9 +35,9 @@ The dataset consists of the following 15 columns:
 
 **Removed Unnecessary Rows:** Removed the extra rows containing 0 values that appeared before the column headers.
 
-**Fixed Column Headers:** Corrected the column headers where multiple fields were combined, such as SegmentCategory and Region Country, to ensure each column had a proper name.
+**Fixed Column Headers:**
 
-**Separated Combined Data:** **Separated Combined Columns:** Separated combined columns such as `SegmentCategory` and `Region Country` into individual columns.
+**Separated Combined Columns:** Separated combined columns such as `SegmentCategory` and `Region Country` into individual columns.
 
 **Standardized Date Formats:** Converted the Shipping Date and Delivery Date columns into a consistent date format.
 
