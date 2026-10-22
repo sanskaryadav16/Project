@@ -27,3 +27,22 @@ The dataset consists of the following 15 columns:
 | Net Cost        | Total cost associated with the units sold. |
 | Revenue         | Total revenue generated from product sales. |
 | Net Profit      | Profit earned after subtracting the net cost from revenue. |
+
+
+## 3. Data Preprocessing
+
+**The following preprocessing steps were identified for preparing the dataset for analysis in Power BI:**
+
+**Removed Unnecessary Rows:** Removed the extra rows containing 0 values that appeared before the column headers.
+
+**Fixed Column Headers:** Corrected the column headers where multiple fields were combined, such as SegmentCategory and Region Country, to ensure each column had a proper name.
+
+**Separated Combined Data:** Separated the combined SegmentCategory column into two individual columns: Segment and Category.
+**Corrected Column Structure:** Ensured that each field, such as Region and Country, was stored in its own separate column.
+**Standardized Date Formats:** Converted the Shipping Date and Delivery Date columns into a consistent date format.
+**Checked Date Accuracy:** Identified records where the delivery date appeared earlier than the shipping date and flagged them for validation.
+**Verified Numeric Data Types:** Ensured that Unit Price, Unit Cost, Units Sold, Net Cost, Revenue, and Net Profit were stored in appropriate numeric formats.
+**Validated Sales Calculations:** Checked the consistency of Net Cost, Revenue, and Net Profit using the available price, cost, and quantity data.
+**Reviewed Data Quality:** Checked for missing values, duplicate records, and inconsistent category or geographical names.
+
+After preprocessing, the dataset was prepared for further analysis and interactive dashboard creation in Power BI.
