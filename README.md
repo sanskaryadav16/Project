@@ -22,7 +22,7 @@ The dataset consists of the following 15 columns:
 | Shipping Date   | Date when the product was shipped. |
 | Delivery Date   | Date when the product was delivered. |
 | Unit Price      | Selling price of one unit of a product. |
-| Unit Cost       | Cost incurred to purchase or produce one unit. |
+| Unit Cost       | Cost of one unit of a product. |
 | Units Sold      | Total number of units sold. |
 | Net Cost        | Total cost associated with the units sold. |
 | Revenue         | Total revenue generated from product sales. |
