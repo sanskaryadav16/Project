@@ -37,7 +37,7 @@ The dataset consists of the following 15 columns:
 
 **Updated Column Headers:** After removing the unnecessary rows containing 0 values, updated the column headers to ensure they correctly align with the corresponding data columns.
 
-**Separated Combined Columns:** Separated combined columns such as `SegmentCategory` and `Region Country` into individual columns.
+**Separated Combined Columns:** Split combined columns, such as SegmentCategory and Region Country, into separate columns to improve data organization and usability.
 
 **Verified Data Types:** Checked the data types of all columns and ensured that date, numeric, and categorical columns were stored in appropriate formats.
 
