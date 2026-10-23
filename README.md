@@ -44,5 +44,5 @@ The dataset consists of the following 15 columns:
 **After preprocessing, the dataset was prepared for further analysis and interactive dashboard creation in Power BI.**
 
 ![Sales Dashboard](Screenshot%20(133).png)
-![DMart Sales Dashboard](DMART%20DASHBOARD.png)
+![DMart Sales Dashboard](PAGE2.png)
 ![DMart Sales Dashboard](DMART%20DASHBOARD.png)
