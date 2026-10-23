@@ -43,5 +43,14 @@ The dataset consists of the following 15 columns:
 
 **After preprocessing, the dataset was prepared for further analysis and interactive dashboard creation in Power BI.**
 
+# Sales Overview
 ![Sales Dashboard](PAGE1.png)
+
+
+# Sub-Category & Category Analysis
+![Sales Dashboard](PAGE2.png)
+
+
+# Regional & Country Analysis
+![Sales Dashboard](PAGE3.png)
 
