@@ -42,3 +42,7 @@ The dataset consists of the following 15 columns:
 **Verified Data Types:** Checked the data types of all columns and ensured that date, numeric, and categorical columns were stored in appropriate formats.
 
 **After preprocessing, the dataset was prepared for further analysis and interactive dashboard creation in Power BI.**
+
+![Sales Dashboard](Screenshot%20(133).png)
+![DMart Sales Dashboard](DMART%20DASHBOARD.png)
+![DMart Sales Dashboard](DMART%20DASHBOARD.png)
